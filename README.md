@@ -1,6 +1,9 @@
 ## 图例
 
-https://github.com/AwJayChou/anyproxy-flexible-lib/tree/main/image/firefly.png
+![Image text](https://github.com/AwJayChou/anyproxy-flexible-lib/tree/main/image/image.png)
+
+![Image text](https://github.com/AwJayChou/anyproxy-flexible-lib/tree/main/image/fireflyblock.png)
+
 
 ## 语雀文档
 
